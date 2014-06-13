@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-crossreference
 Version:	20070101
-Release:	6
+Release:	7
 Summary:	Crossreferences within documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crossreference
