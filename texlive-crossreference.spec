@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Crossreferences within documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crossreference
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/crossreference
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/crossreference.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/crossreference.doc.r%{version}.tar.xz
